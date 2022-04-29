@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "sql_car_dealership",
+            "connectString": "postgres://voktpmay:HL2snE74sqE6MdWJULuZ9w67hmlluVT4@chunee.db.elephantsql.com/voktpmay"
+        }
+    ]
+}
